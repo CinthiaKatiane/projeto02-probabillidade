@@ -15,4 +15,3 @@ Esse projeto foi realizado para a disciplina de Probabilidade e tem como objetiv
 7. Ao submeter a tarefa informar APENAS o link do repositório no github
 8. Realizar um estudo utilizando o conteúdo das aulas 11 à 16 sobre um determinado grupo de informação presente no Portal de dados abertos da UFRN
 
-## Seja inovador
